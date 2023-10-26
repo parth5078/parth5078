@@ -5,6 +5,6 @@
 - 📫 How to reach me 
 
 <!---
-parth5078/parth5078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+parth5078/parth5078 is a ✨ special ✨ repository because its `PARTH.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
